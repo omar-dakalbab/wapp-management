@@ -138,4 +138,7 @@ dist
 # vscode
 .vscode
 
+# macOS
+.DS_Store
+
 # mongo
